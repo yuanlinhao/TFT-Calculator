@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TftSimBackend", "TftSimBackend.csproj", "{307E51B7-54D8-442E-896C-E60DF563494B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{307E51B7-54D8-442E-896C-E60DF563494B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307E51B7-54D8-442E-896C-E60DF563494B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307E51B7-54D8-442E-896C-E60DF563494B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307E51B7-54D8-442E-896C-E60DF563494B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CF71884-91F3-46EF-9BA8-2F999BE4622B}
+	EndGlobalSection
+EndGlobal

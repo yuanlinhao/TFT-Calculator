@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fc+QgPLcj8nz/k3jJNyGXMLGUOUw6ASugtvFF07R5nA=",
+  "Source": "TftSimBackend",
+  "BasePath": "_content/TftSimBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
